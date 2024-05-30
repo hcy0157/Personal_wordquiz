@@ -9,10 +9,10 @@ You can bring my wordquiz files
 - git clone https://github.com/hcy0157/Personal_wordquiz.git
 
 And you shoud make .exe file
-- gcc -o <name>.exe wordquiz.c show_words.c run_test.c read_line.c menu.c list_wordbooks.c file_test.c
+- gcc -o (name).exe wordquiz.c show_words.c run_test.c read_line.c menu.c list_wordbooks.c file_test.c
 
 Finally you can execute the exe file
-./<name>.exe
+./(name).exe
 
 ## How to use the porject
 It can show 4 lists 
